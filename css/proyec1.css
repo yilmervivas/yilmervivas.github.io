@@ -87,8 +87,16 @@ body{
 }
 
 .face{
-	background-color: white;
+	
 	text-align: right;
 	padding-bottom: 5px;
 	padding-right: 5px;
+}
+
+.video{
+	margin-top: 30px;
+}
+.sobre:hover {
+	opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */ 
 }
